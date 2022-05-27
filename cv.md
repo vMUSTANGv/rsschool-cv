@@ -8,3 +8,8 @@
 * **E-mail** chester00790@gmail.com
 * **GitHub** [vMUSTANGv](https://github.com/vMUSTANGv "Profile GitHub")
 * **Telegram** [Mikhail Vasenka](https://t.me/vMUSTANGv_vBYv "Open a chat with me")
+  
+---
+## About Me
+I am Misha and I am 35 years old. I work in production, but I have always been interested in development. I really like what I teach and what I do. I want to do what I love. Therefore, I want to gain knowledge in fronted developmentt.
+  
