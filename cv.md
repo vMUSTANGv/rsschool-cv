@@ -40,11 +40,13 @@ function getCount(f) {
 
 ```
 
+
 ---
 ## Projects
 * [My CV](https://vMUSTANGv.github.io/rsschool-cv/cv "CV")
-* [Cozy House](https://rolling-scopes-school.github.io/vmustangv-JSFE2022Q1/shelter/pages/main/index.html "Cozy House")
+* [Cozy House](https://rolling-scopes-school.github.io/vmustangv-JSFE2022Q1/shelter/pages/main/ "Cozy House")
   
+
 ---
 ## Education and courses:
 * [Freecodecamp - Responsive Web Design](https://www.freecodecamp.org/ "Frontend")
