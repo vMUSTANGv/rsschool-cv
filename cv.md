@@ -17,27 +17,40 @@ I am Misha and I am 35 years old. I work in production, but I have always been i
 ## Skills
 * HTML
 * CSS
-* JavaScript (Basic)
+* Sass
+* JavaScript
 * Git
-* Python (Basic)
+* Webpack
   
+    
+---
+## Code Example
+```
+function getCount(f) {
+  let vowelsCount = 0;
+  let s = ['a', 'e', 'i', 'o', 'u'];
+  let chars1 = f.split('');
+  for (let char of chars1) {
+    if (s.includes(char)) {
+      vowelsCount += 1;
+    }
+  } 
+  return vowelsCount;
+}
+
+```
+---
+
+## Projects
+* [My CV](https://vMUSTANGv.github.io/rsschool-cv/cv "CV")
+* [Cozy House](https://rolling-scopes-school.github.io/vmustangv-JSFE2022Q1/shelter/pages/main/index.html "Frontend")
 ---
 ## Education and courses:
 * [Freecodecamp - Responsive Web Design](https://www.freecodecamp.org/ "Frontend")
 * [Yandex - free block HTML, CSS, JS](https://practicum.yandex.ru/web/ "Yandex")
 * [Stepik.org - HTML, CSS, Python](https://stepik.org/ "HTML, CSS, Python")
-  
----
-## Code Example
-```
-function sum(a, b, c) {
-  return a + b + c;
-}
+* [RS School 2022 Q1](https://rs.school/js-stage0/ "RS School")
 
-
-let result = sum(7, 4, 8);
-alert( result );
-```
   
 ---
 ## English level
