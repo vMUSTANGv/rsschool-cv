@@ -57,6 +57,6 @@ function getCount(f) {
   
 ---
 ## English level
-Elementary A2
+Elementary A2.
   
 ---
