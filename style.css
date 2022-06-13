@@ -5,7 +5,7 @@
   max-width: 30%;
   background-color: #174180;
   color: #fff;
-  padding: 0 1rem;
+  padding: 2.6rem 1rem;
 }
 
 .main-contacts {
@@ -13,16 +13,57 @@
 }
 
 .photo {
-  -webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
-          clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
-  width: 100%;
-  height: auto;
   margin: 50px auto;
   border-radius: 300px;
 }
 
 .photo-img {
   max-width: 100%;
+}
+
+.project-shelter {
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+.button-project {
+  padding: 7px 42px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+
+.button-project:hover {
+  background-color: #e7e7e7;
+}
+
+.projects-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.projects-container .project-one {
+  text-align: center;
+  width: 45%;
+  padding-bottom: 1rem;
+}
+
+.projects-container .project-two {
+  text-align: center;
+  width: 45%;
+  padding-bottom: 1rem;
 }
 
 * {
@@ -107,16 +148,9 @@ span {
 }
 
 .container {
-  max-width: 1440px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0 120px;
-}
-
-.menu {
-  -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), color-stop(25%, #ffffff), color-stop(75%, #ffffff), to(rgba(255, 255, 255, 0)));
-  -webkit-mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
-          mask-image: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), color-stop(25%, #ffffff), color-stop(75%, #ffffff), to(rgba(255, 255, 255, 0)));
-          mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  padding: 0 2rem;
 }
 
 .menu-list {
@@ -189,6 +223,7 @@ span {
 
 .icon-skill {
   width: 1.7rem;
+  margin-right: 1rem;
 }
 
 .letter {
@@ -225,26 +260,6 @@ span {
 .green {
   color: green;
   font-weight: 500;
-}
-
-.projects-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-}
-
-.projects-container .project-one {
-  width: 45%;
-  height: 300px;
-  border: 1px solid #000;
-}
-
-.projects-container .project-two {
-  width: 45%;
-  height: 300px;
-  border: 1px solid #000;
 }
 
 .section {
