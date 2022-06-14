@@ -14,7 +14,8 @@
 }
 
 .h2-contacts {
-  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 0.5rem;
 }
 
 .contacts-item {
@@ -360,5 +361,10 @@ span {
 
 .section {
   margin-bottom: 50px;
+}
+
+.section-code {
+  margin: 0;
+  padding: 0;
 }
 /*# sourceMappingURL=style.css.map */
